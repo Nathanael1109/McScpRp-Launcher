@@ -1,7 +1,7 @@
 {
     "name": "eon-mcscprp-launcher",
     "preductname": "EON - McScpRp Launcher",
-    "version": "1.2.4",
+    "version": "1.2.5",
     "description": "Launcher Mincraft pour le serveur EOn - McScpRp",
     "main": "src/app.js",
     "author": "Nathanaël",
