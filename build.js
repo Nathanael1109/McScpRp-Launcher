@@ -10,7 +10,7 @@ builder.build({
         artifactName: "${productName}-${os}-${arch}.${ext}",
         files: ["src/**/*", "package.json", "LICENSE.md"],
         directories: { "output": "dist" },
-        compression: 'maximum',
+        compression: 'store',
         asar: true,
         publish: [{
             provider: "github",
