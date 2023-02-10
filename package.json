@@ -1,10 +1,10 @@
 {
     "name": "eon-mcscprp-launcher",
     "preductname": "EON - McScpRp Launcher",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "description": "Launcher Mincraft pour le serveur EOn - McScpRp",
     "main": "src/app.js",
-    "author": "Nathaaël",
+    "author": "Nathanaël",
     "url": "https://elevenonine.be/mcscprp/launcher-serverside",
     "engines": {
         "node": "^18.x.x"
